@@ -1,0 +1,10 @@
+C:\Users\lehn_a\Desktop\Git\ADReport\ADReport\ADReport\bin\Debug\ADReport.exe.config
+C:\Users\lehn_a\Desktop\Git\ADReport\ADReport\ADReport\bin\Debug\ADReport.exe
+C:\Users\lehn_a\Desktop\Git\ADReport\ADReport\ADReport\bin\Debug\ADReport.pdb
+C:\Users\lehn_a\Desktop\Git\ADReport\ADReport\ADReport\obj\Debug\ADReport.csprojAssemblyReference.cache
+C:\Users\lehn_a\Desktop\Git\ADReport\ADReport\ADReport\obj\Debug\ADReport.Form1.resources
+C:\Users\lehn_a\Desktop\Git\ADReport\ADReport\ADReport\obj\Debug\ADReport.Properties.Resources.resources
+C:\Users\lehn_a\Desktop\Git\ADReport\ADReport\ADReport\obj\Debug\ADReport.csproj.GenerateResource.cache
+C:\Users\lehn_a\Desktop\Git\ADReport\ADReport\ADReport\obj\Debug\ADReport.csproj.CoreCompileInputs.cache
+C:\Users\lehn_a\Desktop\Git\ADReport\ADReport\ADReport\obj\Debug\ADReport.exe
+C:\Users\lehn_a\Desktop\Git\ADReport\ADReport\ADReport\obj\Debug\ADReport.pdb
